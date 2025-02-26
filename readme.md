@@ -1,0 +1,1 @@
+A simple mosaic generator written on Java Spring.
